@@ -1,0 +1,3 @@
+Number of records in cluster 1 :3169
+Number of records in cluster 2 :1981
+Number of records in cluster 3 :1931

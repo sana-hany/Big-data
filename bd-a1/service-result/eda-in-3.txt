@@ -1,0 +1,1 @@
+Unique categories in Education_Level: High School, Graduate, Uneducated, College, Post-Graduate, Doctorate
